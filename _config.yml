@@ -21,12 +21,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://acasia.github.io'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'JinwooKim's blog'
+description: 'This is acasia's blog'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "images/jinwoo_kim.jpg"
 
 # Pagination
 paginate: 5
