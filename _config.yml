@@ -23,8 +23,8 @@ plugins:
 # Site settings
 url: 'https://acasia.github.io'
 baseurl: ''
-title: 'JinwooKim's blog'
-description: 'This is acasia's blog'
+title: "JinwooKim's blog"
+description: "This is acasia's blog"
 permalink: pretty
 logo: "images/jinwoo_kim.jpg"
 
